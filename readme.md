@@ -18,7 +18,17 @@ This repository is intended to be used as resume of all the projects i have been
 
 <details>
   <summary>Education</summary
+    
+  <details>
+    <summary>NLP</summary>
+  </details>
+
+  <details>
+    <summary>Machine Learning</summary>
+  </details>
+  
       
+    
  
      
 </details>
