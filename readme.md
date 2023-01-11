@@ -11,6 +11,12 @@ This repository is intended to be used as resume of all the projects i have been
 
 <details>
   <summary>Working Experience</summary>
+  <details>
+  <summary>Education</summary>
+</details>
+<details>
+  <summary>Education</summary>
+</details>
 </details>
 
 
