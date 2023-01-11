@@ -1,27 +1,35 @@
 # Porfolio
 This repository is intended to be used as resume of all the projects i have been working on during my studies and where is possible give an clear idea of my professional working experience.
 
-![alt text](docs/images/intro.jpg "Title")
-
-![alt text](docs/images/errors.jpg "Title")
-
-![alt text](docs/images/err_example.jpg "Title")
-
-![alt text](docs/images/strategy.jpg "Title")
-
 <details>
   <summary>Working Experience</summary>
+  
   <details>
-  <summary>Education</summary>
+  <summary>Computer Vision</summary>
 </details>
+  
 <details>
-  <summary>Education</summary>
+  <summary>Machine Learning</summary>
 </details>
+  
 </details>
 
 
 <details>
-  <summary>Education</summary>
+  <summary>Education</summary
+      
+<details>
+  <summary>Machine Learning</summary>
+</details>
+    
+<details>
+  <summary>Machine Learning</summary>
+</details>
+ 
+<details>
+  <summary>Control Problems</summary>
+</details>
+     
 </details>
 
 
