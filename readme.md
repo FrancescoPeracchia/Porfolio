@@ -3,32 +3,33 @@ This repository is intended to be used as resume of all the projects i have been
 
 <details>
   <summary>Working Experience</summary>
-  
+
+   <details>
+    <summary>Computer Vision</summary>
+  </details>
+
   <details>
-  <summary>Computer Vision</summary>
-</details>
-  
-<details>
-  <summary>Machine Learning</summary>
-</details>
+    <summary>Machine Learning</summary>
+  </details>
   
 </details>
+
 
 
 <details>
   <summary>Education</summary
       
-<details>
-  <summary>Machine Learning</summary>
-</details>
-    
-<details>
-  <summary>Machine Learning</summary>
-</details>
- 
-<details>
-  <summary>Control Problems</summary>
-</details>
+  <details>
+    <summary>Machine Learning</summary>
+  </details>
+
+  <details>
+    <summary>Machine Learning</summary>
+  </details>
+
+  <details>
+    <summary>Control Problems</summary>
+  </details>
      
 </details>
 
