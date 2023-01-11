@@ -17,12 +17,11 @@ This repository is intended to be used as resume of all the projects i have been
 
 
 
-
 <details>
   <summary>Education</summary>
     
   <details>
-    <summary>NLP</summary>
+    <summary>Nlp</summary>
   </details>
 
   <details>
@@ -33,15 +32,7 @@ This repository is intended to be used as resume of all the projects i have been
   <details>
     <summary>Control Problem</summary>
   </details>
-  
-  
-   <details>
-    <summary>Control Problem</summary>
-  </details>
-  
-      
-    
- 
+
      
 </details>
 
