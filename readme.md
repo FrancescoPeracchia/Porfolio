@@ -7,6 +7,8 @@ This repository is intended to be used as resume of all the projects i have been
    <details>
     <summary>Computer Vision</summary>
     ## Object-Detection-Recognition-and-Datagenerator
+    [Data Extraction Method for Industrial Data Matrix Codes Based
+on Local Adjacent Modules Structure](https://www.mdpi.com/2076-3417/12/5/2291)
     [link](https://github.com/FrancescoPeracchia/Object-Detection-Recognition-Datagenerator)
     
     
