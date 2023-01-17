@@ -6,11 +6,11 @@ This repository is intended to be used as resume of all the projects i have been
 
    <details>
     <summary>Computer Vision</summary>
-    ##Object-Detection-Recognition-and-Datagenerator
+    ## Object-Detection-Recognition-and-Datagenerator
     [link](https://github.com/FrancescoPeracchia/Object-Detection-Recognition-Datagenerator)
     
     
-    #CNN-Datamatrix-Reconstruction
+    ## CNN-Datamatrix-Reconstruction
     [link](https://github.com/FrancescoPeracchia/CNN-Datamatrix-Reconstruction)
     
     
