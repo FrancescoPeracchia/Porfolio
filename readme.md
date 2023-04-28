@@ -12,12 +12,13 @@ This repository is intended to be used as resume of all the projects i have been
 
 
 ## University Projects
-  
+Personal and mandatory projects accross all relevant fields explored.
 
 ### NLP
-[link](https://github.com/FrancescoPeracchia/NLP_SpokenDialogSystem)
+[ChatBot](https://github.com/FrancescoPeracchia/NLP_SpokenDialogSystem)\
+Pipeline : Speech-to-text, bag of words, encoding, classification of sentences, automatic reply
   
-
+  
   <details>
     <summary>Computer Vsion</summary>
   </details>
