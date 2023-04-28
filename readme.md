@@ -18,8 +18,12 @@ Personal and mandatory projects accross all relevant fields explored.
 [ChatBot](https://github.com/FrancescoPeracchia/NLP_SpokenDialogSystem)\
 Pipeline : Speech-to-text, bag of words, encoding, classification of sentences, automatic reply\
 \
-[Job-Offer Classifier](https://github.com/FrancescoPeracchia/NLP_TextClassification) 
-[Job-Offer Classifier](https://github.com/FrancescoPeracchia/NLP_TextClassification) 
+[Job-Offer Classifier](https://github.com/FrancescoPeracchia/NLP_TextClassification)\
+Randstad NLP Challenge\
+
+
+[Name Entity Recognition](https://github.com/FrancescoPeracchia/NER-NLP) 
+Name Entity Recognition NLP 2022 course 
 [Job-Offer Classifier](https://github.com/FrancescoPeracchia/NLP_TextClassification) 
 
   
