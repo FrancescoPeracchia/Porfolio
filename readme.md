@@ -23,9 +23,16 @@ Randstad NLP Challenge\
 
 
 [Name Entity Recognition](https://github.com/FrancescoPeracchia/NER-NLP)\
-Name Entity Recognition NLP 2022 course 
-[Job-Offer Classifier](https://github.com/FrancescoPeracchia/NLP_TextClassification) 
+Name Entity Recognition NLP 2022 course\
+\
 
+[Semantic Role Labelling](https://github.com/FrancescoPeracchia/SRL-NLP)\
+Name Entity Recognition NLP 2022 course\
+\
+
+[Coreference Resolution](https://github.com/FrancescoPeracchia/ER-NLP)\
+Ambiguous pronoun detection, entity recognition, and finally pronoun-entity aggregation  2022 course\
+\
   
   
   <details>
