@@ -3,7 +3,7 @@ This repository is intended to be used as resume of all the projects i have been
 
 <details>
   <summary>Working Experience</summary>
-  [ Object Detection and Recognition](https://github.com/FrancescoPeracchia/Object-Detection-Recognition-Datagenerator).
+  [Object-Detection-and-Recognition](https://github.com/FrancescoPeracchia/Object-Detection-Recognition-Datagenerator).
   [  Syntetic Datagenerator](https://github.com/FrancescoPeracchia/Object-Detection-Recognition-Datagenerator)
   [CNN Datamatrix Reconstruction](https://github.com/FrancescoPeracchia/CNN-Datamatrix-Reconstruction)\\
 
