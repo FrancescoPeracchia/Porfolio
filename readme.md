@@ -22,7 +22,7 @@ Pipeline : Speech-to-text, bag of words, encoding, classification of sentences, 
 Randstad NLP Challenge\
 
 
-[Name Entity Recognition](https://github.com/FrancescoPeracchia/NER-NLP) 
+[Name Entity Recognition](https://github.com/FrancescoPeracchia/NER-NLP)\
 Name Entity Recognition NLP 2022 course 
 [Job-Offer Classifier](https://github.com/FrancescoPeracchia/NLP_TextClassification) 
 
