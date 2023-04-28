@@ -27,11 +27,11 @@ Name Entity Recognition NLP 2022 course
 
 
 [Semantic Role Labelling](https://github.com/FrancescoPeracchia/SRL-NLP)\
-Name Entity Recognition NLP 2022 course
+Semantic Role Labelling NLP 2022 course
 
 
 [Coreference Resolution](https://github.com/FrancescoPeracchia/ER-NLP)\
-Ambiguous pronoun detection, entity recognition, and finally pronoun-entity aggregation  2022 course\
+Ambiguous pronoun detection, entity recognition, and finally pronoun-entity aggregation  2022 course
 
   
 ### Computer Vision
