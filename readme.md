@@ -21,6 +21,9 @@ This repository is intended to be used as resume of all the projects i have been
   <details>
     <summary>Nlp</summary>
   </details>
+   ## ChatBot with speach-to-text and bag of word
+  [link](https://github.com/FrancescoPeracchia/NLP_SpokenDialogSystem)
+  
 
   <details>
     <summary>Computer Vsion</summary>
