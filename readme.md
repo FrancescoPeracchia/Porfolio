@@ -34,19 +34,24 @@ Name Entity Recognition NLP 2022 course
 Ambiguous pronoun detection, entity recognition, and finally pronoun-entity aggregation  2022 course\
 
   
-  
-  <details>
-    <summary>Computer Vsion</summary>
-  </details>
-  
-  
-  <details>
-    <summary>Control Problem</summary>
-  </details>
+### Computer Vision
+[ChatBot](https://github.com/FrancescoPeracchia/NLP_SpokenDialogSystem)\
+Pipeline : Speech-to-text, bag of words, encoding, classification of sentences, automatic reply
 
-     
-</details>
+[Job-Offer Classifier](https://github.com/FrancescoPeracchia/NLP_TextClassification)\
+Randstad NLP Challenge
 
+
+[Name Entity Recognition](https://github.com/FrancescoPeracchia/NER-NLP)\
+Name Entity Recognition NLP 2022 course
+
+
+[Semantic Role Labelling](https://github.com/FrancescoPeracchia/SRL-NLP)\
+Name Entity Recognition NLP 2022 course
+
+
+[Coreference Resolution](https://github.com/FrancescoPeracchia/ER-NLP)\
+Ambiguous pronoun detection, entity recognition, and finally pronoun-entity aggregation  2022 course\
 
 
 
