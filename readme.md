@@ -17,6 +17,7 @@ Personal and mandatory projects accross all relevant fields explored.
 ### NLP
 [ChatBot](https://github.com/FrancescoPeracchia/NLP_SpokenDialogSystem)\
 Pipeline : Speech-to-text, bag of words, encoding, classification of sentences, automatic reply\
+\
 [Job-Offer Classifier](https://github.com/FrancescoPeracchia/NLP_TextClassification)\
 
   
