@@ -16,18 +16,18 @@ Personal and mandatory projects accross all relevant fields explored.
 
 ### NLP
 [ChatBot](https://github.com/FrancescoPeracchia/NLP_SpokenDialogSystem)\
-Pipeline : Speech-to-text, bag of words, encoding, classification of sentences, automatic reply\
+Pipeline : Speech-to-text, bag of words, encoding, classification of sentences, automatic reply
 
 [Job-Offer Classifier](https://github.com/FrancescoPeracchia/NLP_TextClassification)\
-Randstad NLP Challenge\
+Randstad NLP Challenge
 
 
 [Name Entity Recognition](https://github.com/FrancescoPeracchia/NER-NLP)\
-Name Entity Recognition NLP 2022 course\
+Name Entity Recognition NLP 2022 course
 
 
 [Semantic Role Labelling](https://github.com/FrancescoPeracchia/SRL-NLP)\
-Name Entity Recognition NLP 2022 course\
+Name Entity Recognition NLP 2022 course
 
 
 [Coreference Resolution](https://github.com/FrancescoPeracchia/ER-NLP)\
